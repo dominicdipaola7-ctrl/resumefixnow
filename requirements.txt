@@ -1,0 +1,13 @@
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-Mail==0.9.1
+openai==1.35.0
+PyPDF2==3.0.1
+stripe==8.0.0
+python-dotenv==1.0.0
+Werkzeug==3.0.1
+gunicorn==21.2.0
+SQLAlchemy==2.0.23
+itsdangerous==2.1.2
+requests==2.31.0
+fpdf2==2.7.6
